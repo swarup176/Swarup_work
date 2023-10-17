@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eed7a0f3-1240-4313-88d3-b0d9ffe5610b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/Spring_rest_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/restClient/src/main/java/com/cs/restClient/ProductServiceClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/restClient/src/main/java/com/cs/restClient/client/ProductServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/restClient/src/main/java/com/cs/restClient/controller/ProductClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_rest_client/restClient/src/main/java/com/cs/restClient/dto/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/ArrayDriver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/ArrayDriver_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Circle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Circle_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Coach.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/CricketCoach.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Customer_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Customer_2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Customer_3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Customer_4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Driver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Driver_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Driver_2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/GolfCoach.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Rectangle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Rectangle_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Shape.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/Shape_1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/review.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/sports.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/sports1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grovy_demo/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_new/java_new.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_demo" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Ws3aPpVqMJxBGyzbG34dvR6yn2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Swarup_Work/Swarup_work/Microservce_circuitBreaker_retry"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed7a0f3-1240-4313-88d3-b0d9ffe5610b" name="Changes" comment="" />
+      <created>1697507527526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697507527526</updated>
+    </task>
+    <servers />
+  </component>
+</project>
