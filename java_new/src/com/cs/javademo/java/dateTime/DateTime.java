@@ -3,10 +3,29 @@ package com.cs.javademo.java.dateTime;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
+import java.util.Date;
 
 public class DateTime {
     public static void main(String[] args) {
-        LocalDate localDate = LocalDate.now().plusDays(1).minus(1, ChronoUnit.MONTHS);
+        //default time zone
+        ZoneId defaultZoneId = ZoneId.systemDefault();
+        Date input = new Date();
+        Instant instant = input.toInstant();
+        ZonedDateTime zdt = instant.atZone(defaultZoneId);
+        LocalDate date = zdt.toLocalDate();
+        //Displaying LocalDate and Date
+        System.out.println("Date is: " + input);
+        System.out.println("LocalDate is: " + date);
+
+        //creating the instance of LocalDate using the day, month, year info
+        LocalDate localDate1 = LocalDate.now(defaultZoneId);
+        //local date + atStartOfDay() + default time zone + toInstant() = Date
+        Date date1 = Date.from(localDate1.atStartOfDay(defaultZoneId).toInstant());
+        //Displaying LocalDate and Date
+        System.out.println("LocalDate is: " + localDate1);
+        System.out.println("Date is: " + date1);
+
+        LocalDate localDate =  LocalDate.now().plusDays(1).minus(1, ChronoUnit.MONTHS);
         System.out.println(localDate);
         DayOfWeek day = LocalDate.parse("2016-08-12").getDayOfWeek();
         System.out.println(day);

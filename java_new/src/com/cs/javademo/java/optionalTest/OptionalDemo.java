@@ -22,7 +22,7 @@ public class OptionalDemo {
         //empty        //of        //ofNullable
 
         Optional<Object> emptyOptional = Optional.empty();
-        System.out.println(emptyOptional);
+        System.out.println(emptyOptional.isPresent()? "Yes" : "No");
        Optional<String> emailOptional = Optional.of(String.valueOf(customer.getEmail()));
         System.out.println(emailOptional);
         Optional<String> emailOptional2 = Optional.ofNullable(String.valueOf(customer.getEmail()));

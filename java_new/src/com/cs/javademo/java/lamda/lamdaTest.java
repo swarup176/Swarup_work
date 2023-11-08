@@ -26,6 +26,8 @@ public class lamdaTest {
         Function<String, String> fn =
                 parameter -> parameter + " from lambda";
         System.out.println (useFoo.add("Message ", fn));
+
+
         System.out.println (Foo.producer());
         List<Shape> shapeList = new ArrayList<>();
         shapeList.add(new Shape("Circle"));
